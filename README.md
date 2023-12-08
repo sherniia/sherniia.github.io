@@ -1,3 +1,11 @@
-# sherniia.github.io
+# Data Scientist
 
-Readme File
+## Education 
+
+Physics, Data Science
+
+## Work Experience
+asdgasd
+sad
+
+asd
