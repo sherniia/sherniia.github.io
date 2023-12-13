@@ -45,7 +45,7 @@ First, I had to create a program that calculates the velocity and acceleration o
 
 The x-axis velocity of one of the stars in each system was used for spectral analysis. In theory, the gravitational pull of the planet would have an effect on star's velocity, allowing us to detect the signal via spectral analysis. However, I was not able to find any singificant signals, other than a signal from the second star. The mass of the second star is too big and overpowers any other gravitational signals. In order to detect an exoplanet, the exoplanet's mass has to be near the mass of the stars. Transit method seems to be a better method at detecting exoplanets around binary star systems.
 
-*Tools used: pandas, numpy, scikit, R
+* Tools used: pandas, numpy, scikit, R
 
 Here are some animations:
 
