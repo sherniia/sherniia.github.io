@@ -37,7 +37,8 @@ You can view the notebook with visuals [here](https://nbviewer.org/github/sherni
 ![Exploratory Analysis image](assets/img/exploratory_analysis_img.png)
 
 
-#[Simulations of Binary Stars System](https://github.com/sherniia/Binary_Stars_Simulations)
+# [Simulations of Binary Stars System](https://github.com/sherniia/Binary_Stars_Simulations)
+
 I created a python model that simulates orbital motion of hypothetical binary star systems. I created six hypothetical binary star systems by using Newtonian mechanics, and assumed that orbital path is circular for simplicity. I was curious if it was possible to detect a planet orbiting around two stars using radial velocity method which is a method of finding exoplanets by looking at the wobbling motion of the star caused by the gravitational pull of planets orbiting around the star.
 
 First, I had to create a program that calculates the velocity and acceleration of each object and then integrate it to get position and velocity. The calculated values were stored and plotted. I used R to animate some hypothetical systems.
