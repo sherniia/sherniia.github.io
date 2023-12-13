@@ -44,9 +44,11 @@ I created a python model that simulates orbital motion of hypothetical binary st
 First, I had to create a program that calculates the velocity and acceleration of each object and then integrate it to get position and velocity. The calculated values were stored and plotted. I used R to animate some hypothetical systems.
 
 The x-axis velocity of one of the stars in each system was used for spectral analysis. In theory, the gravitational pull of the planet would have an effect on star's velocity, allowing us to detect the signal via spectral analysis. However, I was not able to find any singificant signals, other than a signal from the second star. The mass of the second star is too big and overpowers any other gravitational signals. In order to detect an exoplanet, the exoplanet's mass has to be near the mass of the stars. Transit method seems to be a better method at detecting exoplanets around binary star systems.
+
 *Tools used: pandas, numpy, scikit, R
 
 Here are some animations:
+
 ![Sim1_noplanet_slow](https://user-images.githubusercontent.com/94130159/167428346-defe9b47-895b-4816-9169-7231ce84774e.gif)
 
 ![Sim2_with_planets_slow](https://user-images.githubusercontent.com/94130159/167428386-62119721-f44c-4351-adac-3e331aafd5eb.gif)
