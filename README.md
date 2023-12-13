@@ -22,15 +22,15 @@ I was interested in understanding the app market and what factors influence popu
 * Tools Used: numpy, pandas, matplotlib.pyplot, seaborn.
 * Numerical Findings:
   - **Reviews and Installs**: Apps with more reviews often have higher installs, reinforcing the importance of user feedback in app success.
-- **Ratings and Installs**: A direct relationship between higher ratings and more installs suggests that app quality impacts popularity.
-- **App Size**: Contrary to expectations, the app's size doesn't significantly influence its popularity.
-- **Free vs. Paid**: Paid apps generally see fewer installs than their free counterparts.
+  - **Ratings and Installs**: A direct relationship between higher ratings and more installs suggests that app quality impacts popularity.
+  - **App Size**: Contrary to expectations, the app's size doesn't significantly influence its popularity.
+  - **Free vs. Paid**: Paid apps generally see fewer installs than their free counterparts.
 * Categorical Insights:
   - **Ratings**: Apps in 'Art and Design', 'Comics', 'Health and Fitness', and 'Education' enjoy the highest median ratings, pointing to higher user satisfaction in these categories.
-- **Reviews**: 'Entertainment' leads in terms of median reviews.
-- **Size**: Games, being graphics-intensive, typically demand more storage.
-- **Pricing**: 'Finance' apps come with a highest median price, possibly due to their specialized nature.
-- **Installations**: Dominating categories in terms of installations include 'Weather', 'Education', 'Video players', 'Shopping', 'Photography', 'Game', and 'Entertainment'.
+  - **Reviews**: 'Entertainment' leads in terms of median reviews.
+  - **Size**: Games, being graphics-intensive, typically demand more storage.
+  - **Pricing**: 'Finance' apps come with a highest median price, possibly due to their specialized nature.
+  - **Installations**: Dominating categories in terms of installations include 'Weather', 'Education', 'Video players', 'Shopping', 'Photography', 'Game', and 'Entertainment'.
 
 You can view the notebook with visuals [here](https://nbviewer.org/github/sherniia/Google-Play-Store-App-EDA-Project/blob/main/Google_apps_EDA_1.ipynb). 
 
